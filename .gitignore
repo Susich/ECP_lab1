@@ -13,6 +13,7 @@
 *.code-workspace
 *.sublime-project
 *.sublime-workspace
+push_to_github.bat
 
 # Office / export leftovers
 ~$*
