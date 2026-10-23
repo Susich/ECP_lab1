@@ -156,8 +156,8 @@
 
 **1. Клонировать репозиторий:**
 
-    git clone <url_репозитория>
-    cd req_lab1
+    git clone https://github.com/Susich/ECP_lab1.git
+    cd ECP_lab1
 
 **2. Переключиться на свою ветку, ту которую делаешь:**
 
